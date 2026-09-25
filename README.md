@@ -1,2 +1,0 @@
-# violencedistrict
-lokoada.vercel.app
